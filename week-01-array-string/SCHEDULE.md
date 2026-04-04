@@ -17,12 +17,12 @@
 - [x] 88. Merge Sorted Array (Easy) - https://leetcode.com/problems/merge-sorted-array/
 
 ### Ngay 3 (03/04)
-- [ ] 66. Plus One (Easy) - https://leetcode.com/problems/plus-one/
-- [ ] 118. Pascal's Triangle (Easy) - https://leetcode.com/problems/pascals-triangle/
+- [x] 66. Plus One (Easy) - https://leetcode.com/problems/plus-one/
+- [x] 118. Pascal's Triangle (Easy) - https://leetcode.com/problems/pascals-triangle/
 
 ### Ngay 4 (04/04)
-- [ ] 14. Longest Common Prefix (Easy) - https://leetcode.com/problems/longest-common-prefix/
-- [ ] 28. Find the Index of First Occurrence (Easy) - https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+- [x] 14. Longest Common Prefix (Easy) - https://leetcode.com/problems/longest-common-prefix/
+- [x] 28. Find the Index of First Occurrence (Easy) - https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 
 ### Ngay 5 (05/04)
 - [ ] 58. Length of Last Word (Easy) - https://leetcode.com/problems/length-of-last-word/
