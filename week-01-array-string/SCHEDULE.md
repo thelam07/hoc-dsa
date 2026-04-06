@@ -25,12 +25,12 @@
 - [x] 28. Find the Index of First Occurrence (Easy) - https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 
 ### Ngay 5 (05/04)
-- [ ] 58. Length of Last Word (Easy) - https://leetcode.com/problems/length-of-last-word/
-- [ ] 169. Majority Element (Easy) - https://leetcode.com/problems/majority-element/
+- [x] 58. Length of Last Word (Easy) - https://leetcode.com/problems/length-of-last-word/
+- [x] 169. Majority Element (Easy) - https://leetcode.com/problems/majority-element/
 
 ### Ngay 6 (06/04)
-- [ ] 53. Maximum Subarray (Medium) - https://leetcode.com/problems/maximum-subarray/ ⭐ Kadane's Algorithm
-- [ ] 238. Product of Array Except Self (Medium) - https://leetcode.com/problems/product-of-array-except-self/
+- [x] 53. Maximum Subarray (Medium) - https://leetcode.com/problems/maximum-subarray/ ⭐ Kadane's Algorithm
+- [x] 238. Product of Array Except Self (Medium) - https://leetcode.com/problems/product-of-array-except-self/
 
 ### Ngay 7 (07/04)
 - [ ] 49. Group Anagrams (Medium) - https://leetcode.com/problems/group-anagrams/
