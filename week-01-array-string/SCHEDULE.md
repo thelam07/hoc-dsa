@@ -33,8 +33,8 @@
 - [x] 238. Product of Array Except Self (Medium) - https://leetcode.com/problems/product-of-array-except-self/
 
 ### Ngay 7 (07/04)
-- [ ] 49. Group Anagrams (Medium) - https://leetcode.com/problems/group-anagrams/
-- [ ] 151. Reverse Words in a String (Medium) - https://leetcode.com/problems/reverse-words-in-a-string/
+- [x] 49. Group Anagrams (Medium) - https://leetcode.com/problems/group-anagrams/
+- [x] 151. Reverse Words in a String (Medium) - https://leetcode.com/problems/reverse-words-in-a-string/
 
 ### Ngay 8 (08/04)
 - [ ] 303. Range Sum Query - Immutable (Easy) - https://leetcode.com/problems/range-sum-query-immutable/
