@@ -37,8 +37,8 @@
 - [x] 151. Reverse Words in a String (Medium) - https://leetcode.com/problems/reverse-words-in-a-string/
 
 ### Ngay 8 (08/04)
-- [ ] 303. Range Sum Query - Immutable (Easy) - https://leetcode.com/problems/range-sum-query-immutable/
-- [ ] 560. Subarray Sum Equals K (Medium) - https://leetcode.com/problems/subarray-sum-equals-k/ ⭐
+- [x] 303. Range Sum Query - Immutable (Easy) - https://leetcode.com/problems/range-sum-query-immutable/
+- [x] 560. Subarray Sum Equals K (Medium) - https://leetcode.com/problems/subarray-sum-equals-k/ ⭐
 
 ### Ngay 9 (09/04) - Tong ket & On tap
 - [ ] Xem lai cac bai chua AC hoac chua hieu ro

@@ -1,38 +1,43 @@
-# Tuan 2: Two Pointers & Sliding Window
+# Tuần 2: Two Pointers & Sliding Window
 
-## Kien thuc can nam
-- Two pointers: 2 con tro chay tu 2 dau hoac cung 1 dau
-- Sliding window: cua so truot co kich thuoc co dinh hoac thay doi
-- Thuong dung voi sorted array hoac substring problems
+## Kiến thức cần nắm
+- Two pointers: 2 con trỏ chạy từ 2 đầu hoặc cùng 1 đầu
+- Sliding window: cửa sổ trượt có kích thước cố định hoặc thay đổi
+- Thường dùng với sorted array hoặc substring problems
 
-## Lich trinh
+## Lịch trình (chia theo 3 ngày trước quân sự + sau khi về)
 
-### Ngay 1 - Two Pointers Easy
+### === TRƯỚC QUÂN SỰ ===
+
+### Ngày 1 (10/04) - Two Pointers cơ bản
 - [ ] 125. Valid Palindrome (Easy) - https://leetcode.com/problems/valid-palindrome/
 - [ ] 344. Reverse String (Easy) - https://leetcode.com/problems/reverse-string/
 - [ ] 283. Move Zeroes (Easy) - https://leetcode.com/problems/move-zeroes/
 
-### Ngay 2 - Two Pointers Medium
+### Ngày 2 (11/04) - Two Pointers nâng cao
 - [ ] 167. Two Sum II - Input Array Is Sorted (Medium) - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 - [ ] 11. Container With Most Water (Medium) - https://leetcode.com/problems/container-with-most-water/ ⭐
 - [ ] 15. 3Sum (Medium) - https://leetcode.com/problems/3sum/ ⭐
 
-### Ngay 3 - Sliding Window Fixed
+### Ngày 3 (12/04) - Sliding Window cơ bản
 - [ ] 643. Maximum Average Subarray I (Easy) - https://leetcode.com/problems/maximum-average-subarray-i/
 - [ ] 1456. Maximum Number of Vowels in a Substring of Given Size (Medium) - https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-size/
-
-### Ngay 4 - Sliding Window Variable
 - [ ] 209. Minimum Size Subarray Sum (Medium) - https://leetcode.com/problems/minimum-size-subarray-sum/
+
+### === 13/04 - 29/04: QUÂN SỰ (nghỉ) ===
+
+### Ngày 4 (30/04) - Ôn lại + Sliding Window variable
+- [ ] Ôn lại tuần 1 + 2 (làm lại 1-2 bài khó nhất)
 - [ ] 3. Longest Substring Without Repeating Characters (Medium) - https://leetcode.com/problems/longest-substring-without-repeating-characters/ ⭐
 
-### Ngay 5 - Nang cao
+### Ngày 5 (01/05) - Sliding Window nâng cao
 - [ ] 424. Longest Repeating Character Replacement (Medium) - https://leetcode.com/problems/longest-repeating-character-replacement/
 - [ ] 567. Permutation in String (Medium) - https://leetcode.com/problems/permutation-in-string/
 
-### Ngay 6 - Thach thuc
+### Ngày 6 (02/05) - Thách thức
 - [ ] 76. Minimum Window Substring (Hard) - https://leetcode.com/problems/minimum-window-substring/ ⭐
 - [ ] 42. Trapping Rain Water (Hard) - https://leetcode.com/problems/trapping-rain-water/ ⭐
 
-### Ngay 7 - Tong ket & On tap
-- [ ] Xem lai cac bai kho, viet lai loi giai tu dau
-- [ ] Viet notes vao file `../notes/week-02.md`
+### Ngày 7 (03/05) - Tổng kết & Ôn tập
+- [ ] Xem lại các bài khó, viết lại lời giải từ đầu
+- [ ] Viết notes vào file `../notes/week-02.md`
